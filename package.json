@@ -1,0 +1,24 @@
+{
+  "name": "@rahulmawari/js-algorithms",
+  "version": "1.0.0",
+  "description": "A package that is trying to implement all programming algorithms so that anyone can use them just by installing package and callinga function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudoStatus200/js-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data",
+    "structure"
+  ],
+  "author": "Rahul singh mawari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudoStatus200/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/sudoStatus200/js-algorithms#readme"
+}
