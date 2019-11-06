@@ -2,7 +2,7 @@
 
 # How to use
 ```
-npm in @rahulmawari/js-algorithms
+npm install  @rahulmawari/js-algorithms --save
 
 onst algorithms = require('@rahulmawari/js-algorithms')
 
