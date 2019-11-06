@@ -1,6 +1,6 @@
 {
   "name": "@rahulmawari/js-algorithms",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A package that is trying to implement all programming algorithms so that anyone can use them just by installing package and callinga function",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,19 @@
   "bugs": {
     "url": "https://github.com/sudoStatus200/js-algorithms/issues"
   },
-  "homepage": "https://github.com/sudoStatus200/js-algorithms#readme"
+  "homepage": "https://github.com/sudoStatus200/js-algorithms#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
+    "prettier": "^1.18.2",
+    "pretty-quick": "^2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+  
 }
