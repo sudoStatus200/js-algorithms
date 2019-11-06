@@ -15,7 +15,6 @@ const countDuplicates = (string, toLowerCase = true) => {
             : Object.assign(acc, { [curr]: acc[curr] + 1 }),
         {}
       );
-    console.log(result);
 
     return result;
   } catch (e) {
@@ -23,5 +22,4 @@ const countDuplicates = (string, toLowerCase = true) => {
   }
 };
 
-let f = "dddd";
-countDuplicates(f);
+module.exports= countDuplicates
