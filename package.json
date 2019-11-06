@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sudoStatus200/js-algorithms#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "nyc mocha",
     "pretty": "prettier --write  \"src/**/*.js\""
   },
   "devDependencies": {

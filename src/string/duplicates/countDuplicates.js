@@ -22,4 +22,4 @@ const countDuplicates = (string, toLowerCase = true) => {
   }
 };
 
-module.exports= countDuplicates
+module.exports = countDuplicates;

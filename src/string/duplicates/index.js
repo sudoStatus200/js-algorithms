@@ -1,4 +1,4 @@
-const countDuplicates = require('./countDuplicates');
-module.exports={
-    countDuplicates
-}
+const countDuplicates = require("./countDuplicates");
+module.exports = {
+  countDuplicates
+};
