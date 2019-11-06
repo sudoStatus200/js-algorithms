@@ -20,7 +20,7 @@
   "homepage": "https://github.com/sudoStatus200/js-algorithms#readme",
   "scripts": {
     "test": "nyc mocha",
-    "pretty": "prettier --write  \"src/**/*.js\""
+    "pretty": "prettier --write  \"**/*.js\""
   },
   "devDependencies": {
     "chai": "^4.2.0",
