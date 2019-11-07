@@ -1,5 +1,6 @@
 const countDuplicates = (string, toLowerCase = true) => {
-  if (!string || string === undefined || typeof(string) !== 'string') return null;
+  if (!string || string === undefined || typeof string !== "string")
+    return null;
   try {
     let modifiedString;
     toLowerCase
