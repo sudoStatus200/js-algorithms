@@ -1,6 +1,6 @@
 {
   "name": "@rahulmawari/js-algorithms",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A package that is trying to implement all programming algorithms so that anyone can use them just by installing package and callinga function",
   "main": "index.js",
   "repository": {
