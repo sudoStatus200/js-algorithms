@@ -10,6 +10,8 @@ const algorithms = require('@rahulmawari/js-algorithms')
 **String**
 
  **countDuplicates**
+ 
+ 
     ```
     const result = algorithms.countDuplicates("efecferfhehf")
     ```
