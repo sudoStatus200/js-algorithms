@@ -7,6 +7,8 @@ npm install  @rahulmawari/js-algorithms --save
 
 const algorithms = require('@rahulmawari/js-algorithms')
 ```
+[TOCM]
+[TOC]
 #countDuplicates
 
 
