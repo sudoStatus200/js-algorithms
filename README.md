@@ -4,7 +4,7 @@
 ```
 npm install  @rahulmawari/js-algorithms --save
 
-onst algorithms = require('@rahulmawari/js-algorithms')
+const algorithms = require('@rahulmawari/js-algorithms')
 
 
 console.log(algorithms.countDuplicates("dhfbeufkjwenf"))
