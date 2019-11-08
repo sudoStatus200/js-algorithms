@@ -13,10 +13,14 @@ const algorithms = require('@rahulmawari/js-algorithms')
     ```
     const result = algorithms.countDuplicates("efecferfhehf")
     ```
+ 
+ 
  **editDistance (Calculate edit distance of two string using wagner fischer algorithm)**
     
     ```
+    
     const result = algorithms.editDistance('aassd','ssssd')
+    
     ```
 **Memoizer(Use memoizer utility to cache result of a function)**
   ```
