@@ -23,7 +23,7 @@ const algorithms = require('@rahulmawari/js-algorithms')
     const result = algorithms.editDistance('aassd','ssssd')
     
     ```
-**Memoizer(Use memoizer utility to cache result of a function)**
+**Memoizer(Use memoizer to return a memoized function)**
   
   ```
   const result  = algorithms.memoizer(func);
