@@ -7,9 +7,8 @@ npm install  @rahulmawari/js-algorithms --save
 
 const algorithms = require('@rahulmawari/js-algorithms')
 ```
-**String**
 
- **countDuplicates**
+ **countDuplicates (Count the number of duplicate characters in a string )**
  
  
     ```
@@ -25,7 +24,15 @@ const algorithms = require('@rahulmawari/js-algorithms')
     
     ```
 **Memoizer(Use memoizer utility to cache result of a function)**
+  
   ```
   const result  = algorithms.memoizer(func);
-  ```
   
+  ```
+ 
+ **deepClone(fucntion that returns a deep cloned object with no reference to source object)**
+ 
+ ```
+ const result  = algorithms.deepClone(obj);
+ 
+ ```
